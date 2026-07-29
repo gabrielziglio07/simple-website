@@ -71,7 +71,7 @@ Durante o desenvolvimento deste projeto foram praticados os seguintes conceitos:
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/gabrielziglio07/brazilian-fuel-calculator.git
+git clone https://github.com/gabrielziglio07/simple-website.git
 ```
 
 2. Entre na pasta do projeto:
